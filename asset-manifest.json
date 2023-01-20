@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f0c74ef.css",
-    "main.js": "/static/js/main.14669d98.js",
-    "static/media/trebuchet_ms_regular.woff": "/static/media/trebuchet_ms_regular.af3cbb0e7a5aaa5aad48.woff",
-    "static/media/trebuchet_ms_bold.woff": "/static/media/trebuchet_ms_bold.ed76e98b5ec0933d740e.woff",
-    "static/media/exo2_0_thin.otf": "/static/media/exo2_0_thin.51c257bfa8ec3e0cfb4b.otf",
-    "static/media/bg.webp": "/static/media/bg.2a5e66b7aec51fcf62dd.webp",
-    "static/media/cat.webp": "/static/media/cat.45efc045ad64b1557256.webp",
-    "index.html": "/index.html",
-    "main.9f0c74ef.css.map": "/static/css/main.9f0c74ef.css.map",
-    "main.14669d98.js.map": "/static/js/main.14669d98.js.map"
+    "main.css": "/test_funbox/static/css/main.b7226d15.css",
+    "main.js": "/test_funbox/static/js/main.14669d98.js",
+    "static/media/trebuchet_ms_regular.woff": "/test_funbox/static/media/trebuchet_ms_regular.af3cbb0e7a5aaa5aad48.woff",
+    "static/media/trebuchet_ms_bold.woff": "/test_funbox/static/media/trebuchet_ms_bold.ed76e98b5ec0933d740e.woff",
+    "static/media/exo2_0_thin.otf": "/test_funbox/static/media/exo2_0_thin.51c257bfa8ec3e0cfb4b.otf",
+    "static/media/bg.webp": "/test_funbox/static/media/bg.2a5e66b7aec51fcf62dd.webp",
+    "static/media/cat.webp": "/test_funbox/static/media/cat.45efc045ad64b1557256.webp",
+    "index.html": "/test_funbox/index.html",
+    "main.b7226d15.css.map": "/test_funbox/static/css/main.b7226d15.css.map",
+    "main.14669d98.js.map": "/test_funbox/static/js/main.14669d98.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f0c74ef.css",
+    "static/css/main.b7226d15.css",
     "static/js/main.14669d98.js"
   ]
 }
