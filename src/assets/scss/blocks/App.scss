@@ -1,0 +1,26 @@
+.app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    max-width: 1170px;
+    width: 100%;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.page-title {
+    font-family: Exo2;
+    font-size: 36px;
+    font-weight: 100;
+    line-height: 44px;
+    text-align: center;
+    color: $white;
+    margin-bottom: 24px;
+}

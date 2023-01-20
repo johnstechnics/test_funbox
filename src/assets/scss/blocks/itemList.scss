@@ -1,0 +1,9 @@
+.item-list {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+
+    @media (max-width: 1024px) {
+        flex-wrap: wrap;
+    }
+}
